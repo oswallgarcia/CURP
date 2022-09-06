@@ -1,0 +1,11 @@
+C:\Users\OSWALL\source\repos\CURP\CURP\bin\Debug\CURP.exe.config
+C:\Users\OSWALL\source\repos\CURP\CURP\bin\Debug\CURP.exe
+C:\Users\OSWALL\source\repos\CURP\CURP\bin\Debug\CURP.pdb
+C:\Users\OSWALL\source\repos\CURP\CURP\obj\Debug\CURP.csprojAssemblyReference.cache
+C:\Users\OSWALL\source\repos\CURP\CURP\obj\Debug\CURP.Form1.resources
+C:\Users\OSWALL\source\repos\CURP\CURP\obj\Debug\CURP.Form2.resources
+C:\Users\OSWALL\source\repos\CURP\CURP\obj\Debug\CURP.Properties.Resources.resources
+C:\Users\OSWALL\source\repos\CURP\CURP\obj\Debug\CURP.csproj.GenerateResource.cache
+C:\Users\OSWALL\source\repos\CURP\CURP\obj\Debug\CURP.csproj.CoreCompileInputs.cache
+C:\Users\OSWALL\source\repos\CURP\CURP\obj\Debug\CURP.exe
+C:\Users\OSWALL\source\repos\CURP\CURP\obj\Debug\CURP.pdb
